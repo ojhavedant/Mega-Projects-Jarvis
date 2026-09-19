@@ -28,7 +28,7 @@ A Python-based voice assistant that listens for the wake word **"Jarvis"**, then
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/jarvis-assistant.git
+   git clone https://github.com/ojhavedant/jarvis-assistant.git
    cd jarvis-assistant
    ```
 
