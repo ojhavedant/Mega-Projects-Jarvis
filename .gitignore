@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+.venv/
+
+# API Keys and Secrets
+.env
+
+# Python Cache files
+__pycache__/
+
+#Test Browser
+test_browser.py
+
+musicLibrary.py
